@@ -1,5 +1,3 @@
-This non-commercial project will look at movie data in IMDB and will try to predict the success or failure of a movie
-using machine learning algorithms including logistic regression and neural networks.  The accuracy of the prediction
-will be measured against the Rotten Tomatoes score after it is released.
+This non-commercial project will look at movie data in IMDB and will try to predict the success or failure of a movie using machine learning algorithms including logistic regression and neural networks.  The accuracy of the prediction will be measured against the Rotten Tomatoes score after it is released.
 
 This project is for research purposes.
